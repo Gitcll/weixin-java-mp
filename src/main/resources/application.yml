@@ -12,5 +12,5 @@ wx:
       host: 127.0.0.1
       port: 6379
     configs:
-      - appId: wx6774cae09e8011c5
-        secret: 9cfebc469d4648b31c5fe1374c3aec36
+      - appId: ${APP_ID}
+        secret: ${APP_SECRET}
